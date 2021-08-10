@@ -1,0 +1,7 @@
+Id;Name;Age;Type;Location;Region;Gender;Languages;Race;TimeSlot
+1;Test 1;77;"nurse;cpr;physio";"41,3815752781548;1,98513272094305";A;F;"spanish;catalan";white;"15;20"
+2;Test 2;74;doctor;"41,3559120196836;2,11713228334789";B;M;catalan;black;"21;37"
+3;Test 3;82;physio;"41,348274523652;2,26488244348681";C;M;english;latin-american;"15;39"
+4;Test 4;73;;"41,4629832100058;2,24786162179945";A;F;"spanish;catalan;french";white;"15;25"
+5;Test 5;84;nurse;"41,4205718274176;2,15257024090813";B;F;catalan;white;"15;17"
+6;Test 6;77;cpr;"41,4200823434142;2,07977758336782";A;F;"spanish;catalan";white;"15;39"
